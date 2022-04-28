@@ -1,9 +1,10 @@
 {
     "name": "bryan/test",
-    "description": "test desc",
+    "description": "test dec",
     "require": {
         "phpunit/phpunit": "^9.5"
     },
+    "license": "proprietary",
     "authors": [
         {
             "name": "bchooxg",

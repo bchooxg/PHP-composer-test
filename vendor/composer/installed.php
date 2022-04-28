@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => '6e630c2f911dc9f58e7cbdc737c6ba2079277029',
+    'reference' => '5e4a84b0698b8dc44ea63a8be8a13cfc80f6f213',
     'name' => 'bryan/test',
   ),
   'versions' => 
@@ -18,7 +18,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => '6e630c2f911dc9f58e7cbdc737c6ba2079277029',
+      'reference' => '5e4a84b0698b8dc44ea63a8be8a13cfc80f6f213',
     ),
     'doctrine/instantiator' => 
     array (

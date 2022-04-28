@@ -1,5 +1,12 @@
 {
+    "name": "bryan/test",
     "require": {
         "phpunit/phpunit": "^9.5"
-    }
+    },
+    "authors": [
+        {
+            "name": "bchooxg",
+            "email": "56596358+bchooxg@users.noreply.github.com"
+        }
+    ]
 }

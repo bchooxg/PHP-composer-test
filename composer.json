@@ -1,5 +1,6 @@
 {
     "name": "bryan/test",
+    "description": "test desc",
     "require": {
         "phpunit/phpunit": "^9.5"
     },
